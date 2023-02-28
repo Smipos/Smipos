@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=C+#+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smipos&show_icons=true&theme=aura)
 
