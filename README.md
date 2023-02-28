@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smipos&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 
-https://github-profile-trophy.vercel.app/?username=Smipos&theme=tokyonight
+[![trophy](https://github-profile-trophy.vercel.app/?username=Smipos&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
