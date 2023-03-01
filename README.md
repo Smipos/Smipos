@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smipos&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smipos&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smipos&layout=compact&theme=aura)]
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Smipos&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
