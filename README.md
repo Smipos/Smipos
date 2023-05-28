@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smipos&theme=radical)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smipos&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smipos&layout=compact&theme=aura)
 
 
