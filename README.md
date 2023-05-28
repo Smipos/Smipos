@@ -11,7 +11,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smipos&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smipos&layout=compact&theme=aura)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Smipos&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
