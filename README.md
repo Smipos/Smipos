@@ -17,6 +17,15 @@
   <img src="https://img.shields.io/badge/Time%20Spent-22h-f0883e?style=for-the-badge&labelColor=30363d" />
 </a>
 
+<br>
+
+<a href="https://cyberdefenders.org/p/Smipos/">
+  <img src="https://img.shields.io/badge/Endpoint%20Forensics-Accuracy%20High-4ade80?style=flat-square&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/Threat%20Hunting-Accuracy%20High-4ade80?style=flat-square&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/Network%20Forensics-Accuracy%20Medium-22c55e?style=flat-square&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/Malware%20Analysis-Learning-3b82f6?style=flat-square&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/Threat%20Intel-Learning-3b82f6?style=flat-square&labelColor=30363d" />
+</a>
 
 ## Blue Team Labs Online
 
