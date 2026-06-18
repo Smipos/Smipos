@@ -2,7 +2,7 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smipos&theme=radical)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smipos&theme=radical) --->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smipos&theme=radical)
 
@@ -14,6 +14,15 @@
   <img src="https://img.shields.io/badge/First%20Bloods-0-2ea043?style=for-the-badge&labelColor=30363d" />
   <img src="https://img.shields.io/badge/Time%20Spent-22h-f0883e?style=for-the-badge&labelColor=30363d" />
 </a>
+
+
+## Blue Team Labs Online
+
+<a href="https://blueteamlabs.online/public/user/f3aa634faf78bac16c44fe">
+  <img src="https://img.shields.io/badge/Blue%20Team%20Labs%20Online-Profile-1f6feb?style=for-the-badge&labelColor=30363d" />
+</a>
+
+
 
 <!--
 DS
