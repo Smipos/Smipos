@@ -7,6 +7,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smipos&theme=radical)
 
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-0078D7?style=for-the-badge&logo=cyberdefenders&logoColor=white)](https://cyberdefenders.org/p/Smipos/)
+
 <a href="https://cyberdefenders.org/p/Smipos/">
   <img src="https://img.shields.io/badge/Global%20Rank-%23435-2f81f7?style=for-the-badge&labelColor=30363d" />
   <img src="https://img.shields.io/badge/Country%20Rank-%2318-ff4d4d?style=for-the-badge&labelColor=30363d" />
