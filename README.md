@@ -8,7 +8,7 @@
 
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-0078D7?style=for-the-badge&logo=cyberdefenders&logoColor=white)](https://cyberdefenders.org/p/Smipos/)
 <a href="https://cyberdefenders.org/p/Smipos/">
-  <img src="https://cyberdefenders.org/p/Smipos/badge" alt="CyberDefenders profile badge">
+  <img src="https://img.shields.io/badge/CyberDefenders-Profile-0078D7?style=for-the-badge&labelColor=30363d" />
 </a>
 <a href="https://cyberdefenders.org/p/Smipos/">
   <img src="https://img.shields.io/badge/Global%20Rank-%23435-2f81f7?style=for-the-badge&labelColor=30363d" />
