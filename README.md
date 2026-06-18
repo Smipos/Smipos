@@ -24,6 +24,14 @@
   <img src="https://img.shields.io/badge/Blue%20Team%20Labs%20Online-Profile-1f6feb?style=for-the-badge&labelColor=30363d" />
 </a>
 
+<a href="https://blueteamlabs.online/public/user/f3aa634faf78bac16c44fe">
+  <img src="https://img.shields.io/badge/Rank-Initiate-2dd4bf?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Global%20Position-28013-facc15?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Country%20Position-103-facc15?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Points-20-facc15?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Investigations-0-e5e7eb?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Challenges-2-34d399?style=for-the-badge&labelColor=111827" />
+</a>
 
 
 <!--
