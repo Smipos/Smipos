@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/SLA-0-ef4444?style=flat-square&labelColor=30363d" />
   <img src="https://img.shields.io/badge/Success%20Rate-0%25-14b8a6?style=flat-square&labelColor=30363d" />
 </a>
+
 <!---
 <a href="https://blueteamlabs.online/public/user/f3aa634faf78bac16c44fe">
   <img src="https://img.shields.io/badge/Rank-Initiate-2dd4bf?style=for-the-badge&labelColor=111827" />
