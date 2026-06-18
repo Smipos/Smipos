@@ -24,6 +24,14 @@
   <img src="https://img.shields.io/badge/Blue%20Team%20Labs%20Online-Profile-1f6feb?style=for-the-badge&labelColor=30363d" />
 </a>
 
+<br>
+
+<a href="https://blueteamlabs.online/public/user/f3aa634faf78bac16c44fe">
+  <img src="https://img.shields.io/badge/BTLO-Rank%3A%20Initiate-2dd4bf?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Global%20%2328013%20%7C%20Country%20%23103-20%20points-facc15?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Investigations%3A%200%20%7C%20Challenges%3A%202-34d399?style=for-the-badge&labelColor=111827" />
+</a>
+
 ## LetsDefend
 
 <a href="https://app.letsdefend.io/user/idoitagainlol">
@@ -50,13 +58,7 @@
 </a>
 --->
 
-<br>
 
-<a href="https://blueteamlabs.online/public/user/f3aa634faf78bac16c44fe">
-  <img src="https://img.shields.io/badge/BTLO-Rank%3A%20Initiate-2dd4bf?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Global%20%2328013%20%7C%20Country%20%23103-20%20points-facc15?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Investigations%3A%200%20%7C%20Challenges%3A%202-34d399?style=for-the-badge&labelColor=111827" />
-</a>
 
 <!--
 DS
