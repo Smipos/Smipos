@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Country%20Rank-%2318-ff4d4d?style=for-the-badge&labelColor=30363d" />
   <img src="https://img.shields.io/badge/First%20Bloods-0-2ea043?style=for-the-badge&labelColor=30363d" />
   <img src="https://img.shields.io/badge/Time%20Spent-22h-f0883e?style=for-the-badge&labelColor=30363d" />
-  <img src="https://img.shields.io/badge/CD%20Solved%20Labs-14-2ea043?style=flat-square&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/SOLVED%20LABS-14-2ea043?style=for-the-badge&labelColor=30363d" />
 </a>
 
 ## Blue Team Labs Online
