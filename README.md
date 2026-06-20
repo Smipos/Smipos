@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Investigations%3A%200%20%7C%20Challenges%3A%202-34d399?style=for-the-badge&labelColor=111827" />
 </a>
 
+<!---
 ## LetsDefend
 
 <a href="https://app.letsdefend.io/user/idoitagainlol">
@@ -46,6 +47,9 @@
   <img src="https://img.shields.io/badge/SLA-0-ef4444?style=flat-square&labelColor=30363d" />
   <img src="https://img.shields.io/badge/Success%20Rate-0%25-14b8a6?style=flat-square&labelColor=30363d" />
 </a>
+
+--->
+
 
 <!---
 <a href="https://blueteamlabs.online/public/user/f3aa634faf78bac16c44fe">
