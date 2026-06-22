@@ -11,11 +11,11 @@
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-0078D7?style=for-the-badge&logo=cyberdefenders&logoColor=white)](https://cyberdefenders.org/p/Smipos/)
 
 <a href="https://cyberdefenders.org/p/Smipos/">
-  <img src="https://img.shields.io/badge/Global%20Rank-%23435-2f81f7?style=for-the-badge&labelColor=30363d" />
-  <img src="https://img.shields.io/badge/Country%20Rank-%2318-ff4d4d?style=for-the-badge&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/Global%20Rank-%23437-2f81f7?style=for-the-badge&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/Country%20Rank-%2317-ff4d4d?style=for-the-badge&labelColor=30363d" />
   <img src="https://img.shields.io/badge/First%20Bloods-0-2ea043?style=for-the-badge&labelColor=30363d" />
-  <img src="https://img.shields.io/badge/Time%20Spent-22h-f0883e?style=for-the-badge&labelColor=30363d" />
-  <img src="https://img.shields.io/badge/SOLVED%20LABS-14-2ea043?style=for-the-badge&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/Time%20Spent-1d%202h-f0883e?style=for-the-badge&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/SOLVED%20LABS-15-2ea043?style=for-the-badge&labelColor=30363d" />
 </a>
 
 ## Blue Team Labs Online
