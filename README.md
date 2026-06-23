@@ -32,6 +32,19 @@
   <img src="https://img.shields.io/badge/Investigations%3A%200%20%7C%20Challenges%3A%202-34d399?style=for-the-badge&labelColor=111827" />
 </a>
 
+## TryHackMe
+
+<a href="https://tryhackme.com/p/smiposbis">
+  <img src="https://img.shields.io/badge/TryHackMe-Profile-88cc14?style=for-the-badge&labelColor=1f2937" />
+</a>
+
+<br>
+
+<a href="https://tryhackme.com/p/smiposbis">
+  <img src="https://img.shields.io/badge/THM%20Rank-159403-f59e0b?style=for-the-badge&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/THM%20Badges-15-8b5cf6?style=for-the-badge&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/THM%20Completed%20Rooms-69-60a5fa?style=for-the-badge&labelColor=30363d" />
+</a>
 <!---
 ## LetsDefend
 
