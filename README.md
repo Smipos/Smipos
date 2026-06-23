@@ -41,9 +41,9 @@
 <br>
 
 <a href="https://tryhackme.com/p/smiposbis">
-  <img src="https://img.shields.io/badge/THM%20Rank-159403-f59e0b?style=for-the-badge&labelColor=30363d" />
-  <img src="https://img.shields.io/badge/THM%20Badges-15-8b5cf6?style=for-the-badge&labelColor=30363d" />
-  <img src="https://img.shields.io/badge/THM%20Completed%20Rooms-69-60a5fa?style=for-the-badge&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/Rank-159403-f59e0b?style=for-the-badge&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/Badges-15-8b5cf6?style=for-the-badge&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/Completed%20Rooms-69-60a5fa?style=for-the-badge&labelColor=30363d" />
 </a>
 <!---
 ## LetsDefend
